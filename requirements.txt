@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+Pillow
+huggingface_hub
+gradio_client
+openai==0.28.0
