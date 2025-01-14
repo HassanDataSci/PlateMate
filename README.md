@@ -1,7 +1,7 @@
 # PlateMate
 PlateMate  leverages advanced machine learning to analyze food images and provide smarter, healthier alternatives. By combining cutting-edge computer vision and nutritional insights, the system helps users make informed dietary decisions in real-time. Powered by Hugging Face transformers and a sleek Streamlit interface.
 
-![Banner Image](images/banner.png)
+![Banner Image](https://github.com/HassanDataSci/PlateMate/blob/main/IR_IMAGE.png)
 
 ## 🌟 Overview
 This project is a multimodal image recognition system that takes food images and suggests healthier alternatives using machine learning models. Built as part of the CTP program, it combines cutting-edge computer vision and NLP techniques.
